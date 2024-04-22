@@ -11,7 +11,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>principios-solid</module>
-        
+        <module>patrones-creacionales</module>
     </modules>
 
     <properties>
