@@ -1,4 +1,4 @@
-package com.lta.patronescreacionales.factory;
+package com.lta.patronescreacionales.factory.abstrct;
 
 class Archer implements Character {
     @Override
